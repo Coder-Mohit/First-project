@@ -1,2 +1,2 @@
 # First-project
-This is my first Repositry
+This is my first Repositry.
